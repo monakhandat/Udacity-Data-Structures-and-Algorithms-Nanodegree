@@ -43,3 +43,7 @@ Once you have completed your solution for each problem, perform a run time analy
   
 #### Step 4 - Check again Rubric and Submit
 Use the rubric to check your work before submission. A Udacity Reviewer will give feedback on your work based on this rubric and will leave helpful comments on your code.
+
+#### Rubric followed-  
+  
+ [!title](https://github.com/monakhandat/Udacity-Data-Structures-and-Algorithms-Nanodegree/blob/master/Project%201%20Unscramble%20Computer%20Science%20Problems/Rubric.png)

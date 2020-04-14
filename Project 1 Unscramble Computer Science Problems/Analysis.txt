@@ -1,0 +1,25 @@
+Project 1 Run time Analysis				Submitted By- Mrunali Khandat
+
+
+Task 0:
+
+Irrespective of the input, first and last record of the list is accessed. Since output does not depend on the actual number of elements, the run time analysis would be O(1).
+
+
+Task 1:
+
+Complexity would be O(n) since only one loop is used at a time to traverse through input list.
+
+
+Task 2:
+
+Use of dictionaries limits the use loop to one loop at a time. The time complexity in the worst case is O(n).
+
+Task 3:
+
+The solution uses only one loop at a time, so the entire list is traversed only 1 time where n is the length of input. The complexity of built in sort function is O(nlogn) in average and worst cases. Therefore, the complexity of solution is O(nlogn) for worst case.
+
+
+Task 4:
+
+Complexity would be O(n) since the solution does not use any nested loops and the output depends on the traversed input list. The built in function sort used has complexity of O(nlogn) in average and worst cases. The time complexity of solution for worst case is O(nlogn).

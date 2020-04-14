@@ -46,4 +46,4 @@ Use the rubric to check your work before submission. A Udacity Reviewer will giv
 
 #### Rubric followed-  
   
- [!title][https://github.com/monakhandat/Udacity-Data-Structures-and-Algorithms-Nanodegree/blob/master/Project%201%20Unscramble%20Computer%20Science%20Problems/Rubric.png]
+ ![title][https://github.com/monakhandat/Udacity-Data-Structures-and-Algorithms-Nanodegree/blob/master/Project%201%20Unscramble%20Computer%20Science%20Problems/Rubric.png]
